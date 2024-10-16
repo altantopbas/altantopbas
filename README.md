@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Altan 👋
 
-<!--
-**altantopbas/altantopbas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am skilled in artificial intelligence, data science, deep learning, and object detection. Currently, I’m actively working on various AI and data science projects, constantly learning and applying cutting-edge technologies.
 
-Here are some ideas to get you started:
+- 🎓 I graduated as the second top student in Electrical and Electronics Engineering at Afyon Kocatepe University (2024).
+- 💡 My thesis project involved developing an object detection application using deep learning.
+- 🔍 I’m passionate about leveraging AI for innovative solutions, especially in fields like networking, finance, technology, information technologies and telecommunications.
+- 🤖 I enjoy developing machine learning and deep learning models and find it very rewarding.
+- 👥 Working with a team is a great source of motivation for me, and I truly enjoy collaborative environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+### Strong Languages and Tools:
+- Python, TensorFlow, Keras, Pandas, Numpy, Sckitlearn, SQL
+
+### Current Focus:
+- Building my AI and data science career.
+- Exploring new technologies and tools in cloud computing, big data, and machine learning.
+
+---
+
+
+📫 **How to reach me**:
+- [LinkedIn](https://www.linkedin.com/in/altantopbas/)
+  
