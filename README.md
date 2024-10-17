@@ -1,8 +1,9 @@
 # Hi, I'm Altan 👋
 
-I am skilled in artificial intelligence, data science, deep learning, and object detection. Currently, I’m actively working on various AI and data science projects, constantly learning and applying cutting-edge technologies.
+I am skilled in artificial intelligence, data science, deep learning, and object detection. Currently, I’m actively working on various AI and data science projects, constantly learning and applying cutting-edge technologies. I completed short-term and long-term internships at Turkcell. After the internships, I continued working part-time at Turkcell for about 5 months. During this time, I worked in the Network Technologies team, focusing on data science tasks such as data analysis, data simplification, preprocessing, and visualization
 
 - 🎓 I graduated as the second top student in Electrical and Electronics Engineering at Afyon Kocatepe University (2024).
+- 🖥️ Network Technologies and Data Science at Turkcell
 - 💡 My thesis project involved developing an object detection application using deep learning.
 - 🔍 I’m passionate about leveraging AI for innovative solutions, especially in fields like networking, finance, technology, information technologies and telecommunications.
 - 🤖 I enjoy developing machine learning and deep learning models and find it very rewarding.
