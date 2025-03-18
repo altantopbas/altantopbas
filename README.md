@@ -1,5 +1,6 @@
 ## <div align="center">Hi, I'm Altan Topbaş. A passionate AI & Data Science | NLP & LLMs | Agent Development Python Developer from Turkey 👩‍💻 </div> 
 <br/>  
+
 ## 🚀 About Me:
 - 🌱 I’m currently improving myself in **AI, Data Science, and LLM projects**
 - 💻 I love building **end-to-end AI projects** and creating **RAG-based systems**
@@ -10,7 +11,8 @@
 - 🎓 I graduated as the second top student in Electrical and Electronics Engineering at Afyon Kocatepe University (2024).
 - 🖥️ I worked as an intern and part-time **data scientist** in the Network Technologies team at Turkcell.
 - 🌱 Currently exploring **Machine Learning**, **Python**, **PostgreSQL**, **MySQL**, **AI LLMs (Large Language Models)**, **RAG**, **LangChain**, **LangGraph**, and **AI Agents**. AI-driven architectures, and backend system design & architectures.
-<br/>   
+<br/>
+
 ## What I Work On 🚀
 - 🔭 I'm currently working on AI and Data Science solutions as a freelance
 - 🔍 I'm developing AI based ChatBot, AI Agents and more
