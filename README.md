@@ -1,6 +1,4 @@
-## <div align="center">Hi,I'm Altan Topbaş. A passionate AI & Data Science | NLP & LLMs | Agent Python Developer from Turkey 👩‍💻 </div>
-
-<br/>  
+## <div align="center">Hi,I'm Altan Topbaş. A passionate AI & Data Science | NLP & LLMs | Agent Python Developer from Turkey 👩‍💻 </div> 
 <br/>  
 
 ## 🚀 About Me:
