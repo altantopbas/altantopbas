@@ -23,14 +23,18 @@
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
-### 🔥 **Backend Development**
+### 🔥 **Backend/Frontend Development**
 <div align="center">
   <a href="https://www.python.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50"/></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50"/></a>
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50"/></a>
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50"/></a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://fastapi.tiangolo.com/img/icon-white.svg" alt="FastAPI" height="50"/></a>
-  <a href="https://streamlit.io//" target="_blank"><img src="https://avatars.githubusercontent.com/u/45109972?s=48&v=4" alt="Streamlit" height="50"/></a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" height="50"/></a>
+  <a href="https://streamlit.io/" target="_blank"><img src="https://avatars.githubusercontent.com/u/45109972?s=48&v=4" alt="Streamlit" height="50"/></a>
+  <a href="https://www.trychroma.com/" target="_blank"><img src="https://www.trychroma.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fchroma.d840f629.png&w=96&q=75&dpl=dpl_F4mdFQ7htLdXtk8L5Y9phPWGX6g6" alt="Chroma" height="50"/></a>
+  <a href="https://www.pinecone.io/" target="_blank"><img src="https://avatars.githubusercontent.com/u/54333248?s=200&v=4" alt="Streamlit" height="50"/></a>
+
+  
   
 </div>
 </td><td valign="top" width="33%">
@@ -45,7 +49,8 @@
   <a href="https://github.com/hwchase17/rag" target="_blank"><img src="https://styles.redditmedia.com/t5_4wxz5h/styles/communityIcon_0doymzw2usjd1.png" alt="RAG" height="50"/></a>
   <a href="https://github.com/hwchase17/rag" target="_blank"><img src="https://t4.ftcdn.net/jpg/07/56/11/69/360_F_756116963_MKdL7O7BKH1ZHicpGXHd9ys9xDMhkGr2.jpg" alt="LLM" height="50"/></a>
   <a href="https://huggingface.co/docs/transformers/index" target="_blank"><img src="https://avatars.githubusercontent.com/u/25720743?s=48&v=4" alt="Transformers" height="50"/></a>
-  <a href="https://www.trychroma.com/" target="_blank"><img src="https://www.trychroma.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fchroma.d840f629.png&w=96&q=75&dpl=dpl_F4mdFQ7htLdXtk8L5Y9phPWGX6g6" alt="Chroma" height="50"/></a>
+  <a href="https://ollama.com/" target="_blank"><img src="https://ollama.com/public/ollama.png" alt="Ollama" height="50"/></a>
+  <a href="https://mistral.ai/" target="_blank"><img src="https://avatars.githubusercontent.com/u/132372032?s=200&v=4" alt="Mistral AI" height="50"/></a>
  </td></tr></table>  
 <br/>  
 
