@@ -10,7 +10,7 @@
 - 📫 Reach me at: [Email](altantopbas5@gmail.com)
 - 🎓 I graduated as the second top student in Electrical and Electronics Engineering at Afyon Kocatepe University (2024).
 - 🖥️ I worked as an intern and part-time **data scientist** in the Network Technologies team at Turkcell.
-- 👩‍💻 Currently exploring **Machine Learning**, **Python**, **PostgreSQL**, **MySQL**, **AI LLMs (Large Language Models)**, **RAG**, **LangChain**, **LangGraph**, and **AI Agents**. AI-driven architectures, and backend system design & architectures.
+- 👩‍💻 Currently exploring **Machine Learning**, **Python**, **PostgreSQL**, **MySQL**, **AI LLMs (Large Language Models)**, **RAG**, **LangChain**, **LangGraph**, and **AI Agents**. Developing my skills in AI-driven architectures, and backend system design.
 <br/>
 
 ## What I Work On 🚀
