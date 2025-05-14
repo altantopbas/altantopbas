@@ -7,7 +7,7 @@
 - 🧠 I enjoy working on **LLMs, NLP, and GenAI applications**
 - 🗂️ Actively working on projects with **LangChain**, **LangGraph**, and **Streamlit**
 - 📚 Always eager to learn new technologies and improve my skills
-- 📫 Reach me at: [Email](altantopbas5@gmail.com)
+- 📫 Reach me at: altantopbas5@gmail.com
 - 🎓 I graduated as the second top student in Electrical and Electronics Engineering at Afyon Kocatepe University (2024).
 - 🖥️ I worked as an intern and part-time **data scientist** in the Network Technologies team at Turkcell.
 - 👩‍💻 Currently exploring **Machine Learning**, **Python**, **PostgreSQL**, **MySQL**, **AI LLMs (Large Language Models)**, **RAG**, **LangChain**, **LangGraph**, and **AI Agents**. Developing my skills in AI-driven architectures, and backend system design.
