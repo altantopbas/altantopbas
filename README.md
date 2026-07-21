@@ -1,66 +1,134 @@
-## <div align="center"> 👋Hi, I'm Altan Topbaş. A passionate AI & MULTI AGENT SYSTEMS | NLP & LLMs | Agent Development Python Developer from Turkey 👨‍💻 </div> 
+## <div align="center"> 👋Hi, I'm Altan Topbaş. A passionate AI & MULTI AGENT SYSTEMS | NLP & LLMs | Agent Development | AI Security | Developer from Turkey 👨‍💻 </div> 
 <br/>  
   
 ## 🚀 About Me:
-- 🌱 I’m currently improving myself in **AI, Data Science, and LLM projects**
-- 💻 I love building **end-to-end AI projects** and creating **RAG-based systems**
+- 🌱 I’m currently improving myself in **AI Architecture, AI Security and LLM projects** in backend systems
+- 💻 I'm researching new technologies about **AI Security** for backend systems
 - 🧠 I enjoy working on **LLMs, NLP, and GenAI applications**
-- 🗂️ Actively working on projects with **LangChain**, **LangGraph**, and **Streamlit**
+- 🗂️ Actively working on projects with **LangChain**, **LangGraph**, and **Streamlit**, **Ollama**, **Unsloth**, **API's
 - 📚 Always eager to learn new technologies and improve my skills
 - 📫 Reach me at: altantopbas5@gmail.com
 - 🎓 I graduated as the second top student in Electrical and Electronics Engineering at Afyon Kocatepe University (2024).
-- 🖥️ I worked as an intern and part-time **data scientist** in the Network Technologies team at Turkcell.
-- 👩‍💻 Currently exploring **Machine Learning**, **Python**, **PostgreSQL**, **MySQL**, **AI LLMs (Large Language Models)**, **RAG**, **LangChain**, **LangGraph**, and **AI Agents**. Developing my skills in AI-driven architectures, and backend system design.
+- 🖥️ I worked for a total of 11 months as an intern and contract-based **data scientist** in the Network Technologies team at Turkcell.
+- 👩‍💻 Currently exploring **Machine Learning**, **Python**, **PostgreSQL**, **MySQL**, **LLMs**, **RAG**, **LangChain**, **LangGraph**, **Autonom Systems/Agents**, **AI Security** and **AI Agents**. Developing my skills in AI-driven architectures, and backend system design.
 <br/>
 
 ## What I Work On 🚀
-- 🔭 I'm currently working on AI and Data Science solutions as a freelance
-- 🔍 I'm developing AI based ChatBot, AI Agents and more
-- 🔬 Researching and developing LLM-based AI agents for automation and intelligent decision-making.
-- 🤖 I enjoy developing machine learning and deep learning models and find it very rewarding.
-- 🧠 Creating and fine-tuning AI-powered applications for real-world use cases. I created different agents and ai models for personal needs. Building NLP models for text classification, sentiment analysis, and language understanding.
+- 🔭 I currently work as an AI Developer @Nuevo Softwarehouse. I also work as a Co-Founder and AI Engineer @Awish.
+- 🔍 I develop AI-powered chatbots, AI agents, autonomous AI agents, and more. I also design AI architectures used in backend systems.
+- 🔬 I am conducting research and development on LLM-based AI agents for automation and intelligent decision-making processes. I am also conducting research and development on ensuring AI security.
+- 🧠 Building AI-powered applications and agents for real-world automation, evaluation, and security.
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 🔥 **Backend/Frontend Development**
+### 🔥 Backend & Infrastructure
+
+<p align="center">
+  <a href="https://www.python.org/">
+    <img src="https://skillicons.dev/icons?i=python&theme=dark" height="48"/>
+  </a>
+  <a href="https://fastapi.tiangolo.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="48"/>
+  </a>
+  <a href="https://www.mysql.com/">
+    <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="48"/>
+  </a>
+  <a href="https://www.postgresql.org/">
+    <img src="https://skillicons.dev/icons?i=postgres&theme=dark" height="48"/>
+  </a>
+  <a href="https://www.mongodb.com/">
+    <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" height="48"/>
+  </a>
+  <a href="https://www.docker.com/">
+    <img src="https://skillicons.dev/icons?i=docker&theme=dark" height="48"/>
+  </a>
+  <a href="https://kubernetes.io/">
+    <img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" height="48"/>
+  </a>
+  <a href="https://git-scm.com/">
+    <img src="https://skillicons.dev/icons?i=git&theme=dark" height="48"/>
+  </a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🤖 AI • LLM • Agents
+
+<p align="center">
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LangGraph-2E8B57?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/CrewAI-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/PydanticAI-E92063?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LlamaIndex-7C3AED?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Chroma-5E5CE6?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Pinecone-0085FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/FAISS-009688?style=for-the-badge"/>
+
+</p>
+
+</p>
+
+</td>
+</tr>
+</table>
+
+## ⚙️ AI Capabilities
+
 <div align="center">
-  <a href="https://www.python.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50"/></a>
-  <a href="https://www.postgresql.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50"/></a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" height="50"/></a>
-  <a href="https://streamlit.io/" target="_blank"><img src="https://avatars.githubusercontent.com/u/45109972?s=48&v=4" alt="Streamlit" height="50"/></a>
-  <a href="https://www.trychroma.com/" target="_blank"><img src="https://www.trychroma.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fchroma.d840f629.png&w=96&q=75&dpl=dpl_F4mdFQ7htLdXtk8L5Y9phPWGX6g6" alt="Chroma" height="50"/></a>
-  <a href="https://www.pinecone.io/" target="_blank"><img src="https://avatars.githubusercontent.com/u/54333248?s=200&v=4" alt="Streamlit" height="50"/></a>
 
-  
-  
+| Capability | Status |
+|:----------|:------:|
+| 🤖 AI Agents | ✅ |
+| 👥 Multi-Agent Systems | ✅ |
+| 🧠 LLM Applications | ✅ |
+| 🔎 RAG Pipelines | ✅ |
+| 📚 Vector Databases | ✅ |
+| 🔗 Tool Calling & Function Calling | ✅ |
+| 🌐 Model Context Protocol (MCP) | ✅ |
+| 🔄 Workflow Automation | ✅ |
+| ⚡ AI API Integrations | ✅ |
+| 🛡️ AI Security | ✅ |
+| 🏗️ AI Architecture | ✅ |
+| 🚀 AI Product Development | ✅ |
+
 </div>
-</td><td valign="top" width="33%">
 
-### 🤖 **AI & LLMs**
+
+
+## 🌐 Connect with Me
+
 <div align="center">
-  <a href="https://python.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50"/></a>
-  <a href="https://www.langchain.com/" target="_blank"><img src="https://newrelic.com/sites/default/files/styles/medium/public/quickstarts/images/icons/langchain--logo.png?itok=JPlfUXXw" alt="LangChain" height="50"/></a>
-  <a href="https://www.langgraph.com/" target="_blank"><img src="https://assets.datacamp.com/production/repositories/6773/datasets/8b56faeb095c39785da93e3584af5b46e15b7842/LangGraph_icon.png" alt="LangGraph" height="50"/></a>
-  <a href="https://openai.com/" target="_blank"><img src="https://static-00.iconduck.com/assets.00/openai-icon-2021x2048-4rpe5x7n.png" alt="OpenAI" height="50"/></a>
-  <a href="https://ai.google.dev/" target="_blank"><img src="https://img.freepik.com/premium-vector/gemini-logo-icon_1273375-853.jpg" alt="Gemini AI" height="50"/></a>
-  <a href="https://github.com/hwchase17/rag" target="_blank"><img src="https://styles.redditmedia.com/t5_4wxz5h/styles/communityIcon_0doymzw2usjd1.png" alt="RAG" height="50"/></a>
-  <a href="https://github.com/hwchase17/rag" target="_blank"><img src="https://t4.ftcdn.net/jpg/07/56/11/69/360_F_756116963_MKdL7O7BKH1ZHicpGXHd9ys9xDMhkGr2.jpg" alt="LLM" height="50"/></a>
-  <a href="https://huggingface.co/docs/transformers/index" target="_blank"><img src="https://avatars.githubusercontent.com/u/25720743?s=48&v=4" alt="Transformers" height="50"/></a>
-  <a href="https://ollama.com/" target="_blank"><img src="https://ollama.com/public/ollama.png" alt="Ollama" height="50"/></a>
-  <a href="https://mistral.ai/" target="_blank"><img src="https://avatars.githubusercontent.com/u/132372032?s=200&v=4" alt="Mistral AI" height="50"/></a>
- </td></tr></table>  
-<br/>  
 
-
-## Connect with me  
-<div align="center">
 <a href="https://linkedin.com/in/altantopbas" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-</div>  
+
+<a href="mailto:altantopbas5@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
   
 
 <br/> 
