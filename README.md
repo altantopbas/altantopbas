@@ -14,7 +14,7 @@
 <br/>
 
 ## What I Work On 🚀
-- 🔭 I currently work as an AI Developer @Nuevo Softwarehouse. I also work as a Co-Founder and AI Engineer @Awish.
+- 🔭 I currently work as an AI Developer @Nuevo Softwarehouse. I also work as a AI Team Lead @Awish.
 - 🔍 I develop AI-powered chatbots, AI agents, autonomous AI agents, and more. I also design AI architectures used in backend systems.
 - 🔬 I am conducting research and development on LLM-based AI agents for automation and intelligent decision-making processes. I am also conducting research and development on ensuring AI security.
 - 🧠 Building AI-powered applications and agents for real-world automation, evaluation, and security.
