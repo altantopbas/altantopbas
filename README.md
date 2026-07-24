@@ -5,7 +5,7 @@
 - 🌱 I’m currently improving myself in **AI Architecture, AI Security and LLM projects** in backend systems
 - 💻 I'm researching new technologies about **AI Security** for backend systems
 - 🧠 I enjoy working on **LLMs, NLP, and GenAI applications**
-- 🗂️ Actively working on projects with **LangChain**, **LangGraph**, and **Streamlit**, **Ollama**, **Unsloth**, **API's
+- 🗂️ Actively working on projects with **LangChain**, **LangGraph**, and **Streamlit**, **Ollama**, **Unsloth**, **API's**
 - 📚 Always eager to learn new technologies and improve my skills
 - 📫 Reach me at: altantopbas5@gmail.com
 - 🎓 I graduated as the second top student in Electrical and Electronics Engineering at Afyon Kocatepe University (2024).
@@ -14,7 +14,7 @@
 <br/>
 
 ## What I Work On 🚀
-- 🔭 I currently work as an AI Developer @Nuevo Softwarehouse. I also work as a AI Engineer  @Awish.
+- 🔭 I currently work as an AI Developer @Nuevo Softwarehouse. I also work as a AI Team Lead & AI Engineer @Awish.
 - 🔍 I develop AI-powered chatbots, AI agents, autonomous AI agents, and more. I also design AI architectures used in backend systems.
 - 🔬 I am conducting research and development on LLM-based AI agents for automation and intelligent decision-making processes. I am also conducting research and development on ensuring AI security.
 - 🧠 Building AI-powered applications and agents for real-world automation, evaluation, and security.
