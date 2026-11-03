@@ -65,6 +65,10 @@
 
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/Anthropic-D97757?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/LangGraph-2E8B57?style=for-the-badge"/>
